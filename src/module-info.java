@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author maart
+ *
+ */
+module github {
+}
